@@ -1,0 +1,68 @@
+{
+  "name": "static_product",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "@dfinity/agent": "^0.9.3",
+    "@dfinity/auth-client": "^0.9.3",
+    "@dfinity/authentication": "^0.9.3",
+    "@dfinity/candid": "^0.9.3",
+    "@dfinity/identity": "^0.9.3",
+    "@dfinity/principal": "^0.9.3",
+    "bip39": "^3.0.4",
+    "buffer-crc32": "^0.2.13",
+    "cross-fetch": "^3.1.4",
+    "crypto-js": "^4.1.1",
+    "ed25519-hd-key": "^1.2.0",
+    "extensionizer": "^1.0.1",
+    "hdkey": "^2.0.1",
+    "js-sha256": "^0.9.0",
+    "lodash.debounce": "^4.0.8",
+    "random-bigint": "^0.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "typescript": "^4.1.2",
+    "web-vitals": "^1.0.1",
+    "web3": "^1.5.2"
+  },
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "jest",
+    "eject": "craco eject",
+    "deploy": "dfx deploy --argument '(null)'",
+    "prestart": "dfx start --background || exit 0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@craco/craco": "^6.0.0",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "@types/jest": "^26.0.15",
+    "@types/node": "^12.0.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.1.2",
+    "typescript-plugin-css-modules": "^3.4.0"
+  }
+}
