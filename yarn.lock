@@ -25,17 +25,6 @@
     "classnames" "^2.2.6"
     "rc-util" "^5.9.4"
 
-"@ant-design/react-slick@~0.28.1":
-  "integrity" "sha1-rVzxz1A2PBo4QodNadDOHyZpbnE="
-  "resolved" "https://registry.npm.taobao.org/@ant-design/react-slick/download/@ant-design/react-slick-0.28.3.tgz"
-  "version" "0.28.3"
-  dependencies:
-    "@babel/runtime" "^7.10.4"
-    "classnames" "^2.2.5"
-    "json2mq" "^0.2.0"
-    "lodash" "^4.17.21"
-    "resize-observer-polyfill" "^1.5.0"
-
 "@babel/code-frame@^7.0.0", "@babel/code-frame@^7.10.4", "@babel/code-frame@^7.5.5":
   "integrity" "sha1-3PyCa+72XnXFDiHTg319lXmN1lg="
   "resolved" "https://registry.nlark.com/@babel/code-frame/download/@babel/code-frame-7.12.13.tgz"
@@ -1170,7 +1159,7 @@
     "core-js-pure" "^3.15.0"
     "regenerator-runtime" "^0.13.4"
 
-"@babel/runtime@^7.1.2", "@babel/runtime@^7.10.1", "@babel/runtime@^7.10.2", "@babel/runtime@^7.10.4", "@babel/runtime@^7.11.1", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
+"@babel/runtime@^7.10.2", "@babel/runtime@^7.11.2", "@babel/runtime@^7.12.5", "@babel/runtime@^7.5.5", "@babel/runtime@^7.7.2", "@babel/runtime@^7.8.4":
   "integrity" "sha1-cRmlb0IQGIUmlCkLn5FICXORtEY="
   "resolved" "https://registry.nlark.com/@babel/runtime/download/@babel/runtime-7.14.8.tgz"
   "version" "7.14.8"
@@ -2706,54 +2695,6 @@
   dependencies:
     "color-convert" "^2.0.1"
 
-"antd@^4.16.9":
-  "integrity" "sha1-iPtSmWBwTHmlfwEYRWkfxjNDgIM="
-  "resolved" "https://registry.nlark.com/antd/download/antd-4.16.9.tgz?cache=0&sync_timestamp=1627380653524&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fantd%2Fdownload%2Fantd-4.16.9.tgz"
-  "version" "4.16.9"
-  dependencies:
-    "@ant-design/colors" "^6.0.0"
-    "@ant-design/icons" "^4.6.2"
-    "@ant-design/react-slick" "~0.28.1"
-    "@babel/runtime" "^7.12.5"
-    "array-tree-filter" "^2.1.0"
-    "classnames" "^2.2.6"
-    "copy-to-clipboard" "^3.2.0"
-    "lodash" "^4.17.21"
-    "moment" "^2.25.3"
-    "rc-cascader" "~1.4.0"
-    "rc-checkbox" "~2.3.0"
-    "rc-collapse" "~3.1.0"
-    "rc-dialog" "~8.6.0"
-    "rc-drawer" "~4.3.0"
-    "rc-dropdown" "~3.2.0"
-    "rc-field-form" "~1.20.0"
-    "rc-image" "~5.2.4"
-    "rc-input-number" "~7.1.0"
-    "rc-mentions" "~1.6.1"
-    "rc-menu" "~9.0.12"
-    "rc-motion" "^2.4.0"
-    "rc-notification" "~4.5.7"
-    "rc-pagination" "~3.1.6"
-    "rc-picker" "~2.5.10"
-    "rc-progress" "~3.1.0"
-    "rc-rate" "~2.9.0"
-    "rc-resize-observer" "^1.0.0"
-    "rc-select" "~12.1.6"
-    "rc-slider" "~9.7.1"
-    "rc-steps" "~4.1.0"
-    "rc-switch" "~3.2.0"
-    "rc-table" "~7.15.1"
-    "rc-tabs" "~11.10.0"
-    "rc-textarea" "~0.3.0"
-    "rc-tooltip" "~5.1.1"
-    "rc-tree" "~4.2.1"
-    "rc-tree-select" "~4.3.0"
-    "rc-trigger" "^5.2.1"
-    "rc-upload" "~4.3.0"
-    "rc-util" "^5.13.1"
-    "scroll-into-view-if-needed" "^2.2.25"
-    "warning" "^4.0.3"
-
 "anymatch@^2.0.0":
   "integrity" "sha1-vLJLTzeTTZqnrBe0ra+J58du8us="
   "resolved" "https://registry.npm.taobao.org/anymatch/download/anymatch-2.0.0.tgz"
@@ -2830,11 +2771,6 @@
     "es-abstract" "^1.18.0-next.2"
     "get-intrinsic" "^1.1.1"
     "is-string" "^1.0.5"
-
-"array-tree-filter@^2.1.0":
-  "integrity" "sha1-hzrAD+yDdJ8lWsjdCDgUtPYykZA="
-  "resolved" "https://registry.nlark.com/array-tree-filter/download/array-tree-filter-2.1.0.tgz"
-  "version" "2.1.0"
 
 "array-union@^1.0.1":
   "integrity" "sha1-mjRBDk9OPaI96jdb5b5w8kd47Dk="
@@ -2941,11 +2877,6 @@
   "integrity" "sha1-3TeelPDbgxCwgpH51kwyCXZmF/0="
   "resolved" "https://registry.npm.taobao.org/async-limiter/download/async-limiter-1.0.1.tgz"
   "version" "1.0.1"
-
-"async-validator@^3.0.3":
-  "integrity" "sha1-aOhmqWgk6LJpT/eoMcGiXETV5QA="
-  "resolved" "https://registry.nlark.com/async-validator/download/async-validator-3.5.2.tgz"
-  "version" "3.5.2"
 
 "async@^2.6.2":
   "integrity" "sha1-1yYl4jRKNlbjo61Pp0n6gymdgv8="
@@ -3960,7 +3891,7 @@
     "isobject" "^3.0.0"
     "static-extend" "^0.1.1"
 
-"classnames@^2.2.1", "classnames@^2.2.3", "classnames@^2.2.5", "classnames@^2.2.6", "classnames@2.x":
+"classnames@^2.2.6":
   "integrity" "sha1-38+jiR4wbsHa0QXQ6I9EF7hTXo4="
   "resolved" "https://registry.npm.taobao.org/classnames/download/classnames-2.3.1.tgz"
   "version" "2.3.1"
@@ -4138,11 +4069,6 @@
     "safe-buffer" "5.1.2"
     "vary" "~1.1.2"
 
-"compute-scroll-into-view@^1.0.17":
-  "integrity" "sha1-aojxis2dQunPS6pr7H4FImB6t6s="
-  "resolved" "https://registry.npm.taobao.org/compute-scroll-into-view/download/compute-scroll-into-view-1.0.17.tgz?cache=0&sync_timestamp=1614043098321&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fcompute-scroll-into-view%2Fdownload%2Fcompute-scroll-into-view-1.0.17.tgz"
-  "version" "1.0.17"
-
 "concat-map@0.0.1":
   "integrity" "sha1-2Klr13/Wjfd5OnMDajug1UBdR3s="
   "resolved" "https://registry.npm.taobao.org/concat-map/download/concat-map-0.0.1.tgz"
@@ -4261,13 +4187,6 @@
   "integrity" "sha1-Z29us8OZl8LuGsOpJP1hJHSPV40="
   "resolved" "https://registry.npm.taobao.org/copy-descriptor/download/copy-descriptor-0.1.1.tgz"
   "version" "0.1.1"
-
-"copy-to-clipboard@^3.2.0", "copy-to-clipboard@^3.3.1":
-  "integrity" "sha1-EVqhqZmP+rYZb5MHatbaO5E2Yq4="
-  "resolved" "https://registry.npm.taobao.org/copy-to-clipboard/download/copy-to-clipboard-3.3.1.tgz"
-  "version" "3.3.1"
-  dependencies:
-    "toggle-selection" "^1.0.6"
 
 "core-js-compat@^3.14.0", "core-js-compat@^3.15.0", "core-js-compat@^3.6.2":
   "integrity" "sha1-Rycvu0eYgN4UtOYIH3HzSS9b08s="
@@ -4738,16 +4657,6 @@
     "whatwg-mimetype" "^2.3.0"
     "whatwg-url" "^8.0.0"
 
-"date-fns@2.x":
-  "integrity" "sha1-TohslBZZrwz3sw+v3R6qN+iHiKk="
-  "resolved" "https://registry.nlark.com/date-fns/download/date-fns-2.23.0.tgz"
-  "version" "2.23.0"
-
-"dayjs@1.x":
-  "integrity" "sha1-KIsqqC8thBimydTfWJjAc3rQKmM="
-  "resolved" "https://registry.nlark.com/dayjs/download/dayjs-1.10.6.tgz"
-  "version" "1.10.6"
-
 "debug@^2.2.0":
   "integrity" "sha1-XRKFFd8TT/Mn6QpMk/Tgd6U2NB8="
   "resolved" "https://registry.nlark.com/debug/download/debug-2.6.9.tgz?cache=0&sync_timestamp=1625374675284&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fdebug%2Fdownload%2Fdebug-2.6.9.tgz"
@@ -5035,11 +4944,6 @@
   "integrity" "sha1-P11DtSx6O9aLX7Y/pHtOTB/fZak="
   "resolved" "https://registry.nlark.com/dom-accessibility-api/download/dom-accessibility-api-0.5.6.tgz"
   "version" "0.5.6"
-
-"dom-align@^1.7.0":
-  "integrity" "sha1-D4Fk69DJwhsMeQMQSTzYVYkqzUs="
-  "resolved" "https://registry.nlark.com/dom-align/download/dom-align-1.12.2.tgz?cache=0&sync_timestamp=1621853854993&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fdom-align%2Fdownload%2Fdom-align-1.12.2.tgz"
-  "version" "1.12.2"
 
 "dom-converter@^0.2.0":
   "integrity" "sha1-ZyGp2u4uKTaClVtq/kFncWJ7t2g="
@@ -6632,18 +6536,6 @@
   "resolved" "https://registry.npm.taobao.org/hex-color-regex/download/hex-color-regex-1.1.0.tgz"
   "version" "1.1.0"
 
-"history@^4.9.0":
-  "integrity" "sha1-MzcaZeOoOyZ0NOKz87G0xYqtTPM="
-  "resolved" "https://registry.nlark.com/history/download/history-4.10.1.tgz"
-  "version" "4.10.1"
-  dependencies:
-    "@babel/runtime" "^7.1.2"
-    "loose-envify" "^1.2.0"
-    "resolve-pathname" "^3.0.0"
-    "tiny-invariant" "^1.0.2"
-    "tiny-warning" "^1.0.0"
-    "value-equal" "^1.0.1"
-
 "hmac-drbg@^1.0.1":
   "integrity" "sha1-0nRXAQJabHdabFRXk+1QL8DGSaE="
   "resolved" "https://registry.npm.taobao.org/hmac-drbg/download/hmac-drbg-1.0.1.tgz"
@@ -6652,13 +6544,6 @@
     "hash.js" "^1.0.3"
     "minimalistic-assert" "^1.0.0"
     "minimalistic-crypto-utils" "^1.0.1"
-
-"hoist-non-react-statics@^3.1.0":
-  "integrity" "sha1-7OCsr3HWLClpwuxZ/v9CpLGoW0U="
-  "resolved" "https://registry.npm.taobao.org/hoist-non-react-statics/download/hoist-non-react-statics-3.3.2.tgz?cache=0&sync_timestamp=1596721617088&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fhoist-non-react-statics%2Fdownload%2Fhoist-non-react-statics-3.3.2.tgz"
-  "version" "3.3.2"
-  dependencies:
-    "react-is" "^16.7.0"
 
 "hoopy@^0.1.4":
   "integrity" "sha1-YJIH1mEQADOpqUAq096mdzgcGx0="
@@ -7444,11 +7329,6 @@
   "resolved" "https://registry.npm.taobao.org/isarray/download/isarray-1.0.0.tgz"
   "version" "1.0.0"
 
-"isarray@0.0.1":
-  "integrity" "sha1-ihis/Kmo9Bd+Cav8YDiTmwXR7t8="
-  "resolved" "https://registry.npm.taobao.org/isarray/download/isarray-0.0.1.tgz"
-  "version" "0.0.1"
-
 "isexe@^2.0.0":
   "integrity" "sha1-6PvzdNxVb/iUehDcsFctYz8s+hA="
   "resolved" "https://registry.npm.taobao.org/isexe/download/isexe-2.0.0.tgz"
@@ -8083,13 +7963,6 @@
   dependencies:
     "delimit-stream" "0.1.0"
 
-"json2mq@^0.2.0":
-  "integrity" "sha1-tje9O6nqvhIsg+lyBIOusQ0skEo="
-  "resolved" "https://registry.npm.taobao.org/json2mq/download/json2mq-0.2.0.tgz"
-  "version" "0.2.0"
-  dependencies:
-    "string-convert" "^0.2.0"
-
 "json3@^3.3.3":
   "integrity" "sha1-f8EON1/FrkLEcFpcwKpvYr4wW4E="
   "resolved" "https://registry.npm.taobao.org/json3/download/json3-3.3.3.tgz"
@@ -8438,7 +8311,7 @@
   "resolved" "https://registry.nlark.com/loglevel/download/loglevel-1.7.1.tgz"
   "version" "1.7.1"
 
-"loose-envify@^1.0.0", "loose-envify@^1.1.0", "loose-envify@^1.2.0", "loose-envify@^1.3.1", "loose-envify@^1.4.0":
+"loose-envify@^1.1.0", "loose-envify@^1.4.0":
   "integrity" "sha1-ce5R+nvkyuwaY4OffmgtgTLTDK8="
   "resolved" "https://registry.nlark.com/loose-envify/download/loose-envify-1.4.0.tgz"
   "version" "1.4.0"
@@ -8686,14 +8559,6 @@
   "resolved" "https://registry.npm.taobao.org/min-indent/download/min-indent-1.0.1.tgz"
   "version" "1.0.1"
 
-"mini-create-react-context@^0.4.0":
-  "integrity" "sha1-ByFxVhv9ySLaCKYMIZekl8wtHV4="
-  "resolved" "https://registry.nlark.com/mini-create-react-context/download/mini-create-react-context-0.4.1.tgz"
-  "version" "0.4.1"
-  dependencies:
-    "@babel/runtime" "^7.12.1"
-    "tiny-warning" "^1.0.3"
-
 "mini-css-extract-plugin@0.11.3":
   "integrity" "sha1-FbCRCn8y5i/95KdDDP771wByTqY="
   "resolved" "https://registry.nlark.com/mini-css-extract-plugin/download/mini-css-extract-plugin-0.11.3.tgz?cache=0&sync_timestamp=1625489248109&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fmini-css-extract-plugin%2Fdownload%2Fmini-css-extract-plugin-0.11.3.tgz"
@@ -8834,11 +8699,6 @@
   "integrity" "sha512-qYvlv/exQ4+svI3UOvPUpLDF0OMX5euvUH0Ny4N5QyRyhNdgAgUrVH3iUINSzEPLvx0kbo/Bp28GJKIqvE7URw=="
   "resolved" "https://registry.npmjs.org/mock-fs/-/mock-fs-4.14.0.tgz"
   "version" "4.14.0"
-
-"moment@^2.24.0", "moment@^2.25.3":
-  "integrity" "sha1-sr52n6MZQL6e7qZGnAdeNQBvo9M="
-  "resolved" "https://registry.npm.taobao.org/moment/download/moment-2.29.1.tgz?cache=0&sync_timestamp=1601983320283&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fmoment%2Fdownload%2Fmoment-2.29.1.tgz"
-  "version" "2.29.1"
 
 "move-concurrently@^1.0.1":
   "integrity" "sha1-viwAX9oy4LKa8fBdfEszIUxwH5I="
@@ -9605,13 +9465,6 @@
   "integrity" "sha1-+8EUtgykKzDZ2vWFjkvWi77bZzU="
   "resolved" "https://registry.nlark.com/path-parse/download/path-parse-1.0.7.tgz"
   "version" "1.0.7"
-
-"path-to-regexp@^1.7.0":
-  "integrity" "sha1-iHs7qdhDk+h6CgufTLdWGYtTVIo="
-  "resolved" "https://registry.npm.taobao.org/path-to-regexp/download/path-to-regexp-1.8.0.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fpath-to-regexp%2Fdownload%2Fpath-to-regexp-1.8.0.tgz"
-  "version" "1.8.0"
-  dependencies:
-    "isarray" "0.0.1"
 
 "path-to-regexp@0.1.7":
   "integrity" "sha1-32BBeABfUi8V60SQ5yR6G/qmf4w="
@@ -10559,7 +10412,7 @@
     "kleur" "^3.0.3"
     "sisteransi" "^1.0.5"
 
-"prop-types@^15.0.0", "prop-types@^15.6.2", "prop-types@^15.7.2":
+"prop-types@^15.7.2":
   "integrity" "sha1-UsQedbjIfnK52TYOAga5ncv/psU="
   "resolved" "https://registry.npm.taobao.org/prop-types/download/prop-types-15.7.2.tgz"
   "version" "15.7.2"
@@ -10742,342 +10595,7 @@
     "iconv-lite" "0.4.24"
     "unpipe" "1.0.0"
 
-"rc-align@^4.0.0":
-  "integrity" "sha1-RtiAHEoTn/amWtFnTo786smPhfI="
-  "resolved" "https://registry.npm.taobao.org/rc-align/download/rc-align-4.0.9.tgz?cache=0&sync_timestamp=1604568302408&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-align%2Fdownload%2Frc-align-4.0.9.tgz"
-  "version" "4.0.9"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "dom-align" "^1.7.0"
-    "rc-util" "^5.3.0"
-    "resize-observer-polyfill" "^1.5.1"
-
-"rc-cascader@~1.4.0":
-  "integrity" "sha1-2RsNz4FXtg6+nsPli02wVNUplGQ="
-  "resolved" "https://registry.nlark.com/rc-cascader/download/rc-cascader-1.4.3.tgz?cache=0&sync_timestamp=1626160301488&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-cascader%2Fdownload%2Frc-cascader-1.4.3.tgz"
-  "version" "1.4.3"
-  dependencies:
-    "@babel/runtime" "^7.12.5"
-    "array-tree-filter" "^2.1.0"
-    "rc-trigger" "^5.0.4"
-    "rc-util" "^5.0.1"
-    "warning" "^4.0.1"
-
-"rc-checkbox@~2.3.0":
-  "integrity" "sha1-+Rs2eMftsrqoEhyUg8Zk+m8K78E="
-  "resolved" "https://registry.npm.taobao.org/rc-checkbox/download/rc-checkbox-2.3.2.tgz?cache=0&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-checkbox%2Fdownload%2Frc-checkbox-2.3.2.tgz"
-  "version" "2.3.2"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.1"
-
-"rc-collapse@~3.1.0":
-  "integrity" "sha1-JCHUVOhXgdHPLwT5BpGOBnfXeeY="
-  "resolved" "https://registry.nlark.com/rc-collapse/download/rc-collapse-3.1.1.tgz?cache=0&sync_timestamp=1621999817605&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-collapse%2Fdownload%2Frc-collapse-3.1.1.tgz"
-  "version" "3.1.1"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "rc-motion" "^2.3.4"
-    "rc-util" "^5.2.1"
-    "shallowequal" "^1.1.0"
-
-"rc-dialog@~8.5.0":
-  "integrity" "sha1-hPsfdjfdiq3XCbqQXqwqOi4H0hs="
-  "resolved" "https://registry.nlark.com/rc-dialog/download/rc-dialog-8.5.3.tgz"
-  "version" "8.5.3"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.6"
-    "rc-motion" "^2.3.0"
-    "rc-util" "^5.6.1"
-
-"rc-dialog@~8.6.0":
-  "integrity" "sha1-OyKNrAhd5e7YxiN/MRYhBGh0Quc="
-  "resolved" "https://registry.nlark.com/rc-dialog/download/rc-dialog-8.6.0.tgz"
-  "version" "8.6.0"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.6"
-    "rc-motion" "^2.3.0"
-    "rc-util" "^5.6.1"
-
-"rc-drawer@~4.3.0":
-  "integrity" "sha1-NWMzp68Bt3er1oXJbCzmLvtE8/M="
-  "resolved" "https://registry.nlark.com/rc-drawer/download/rc-drawer-4.3.1.tgz"
-  "version" "4.3.1"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.6"
-    "rc-util" "^5.7.0"
-
-"rc-dropdown@^3.2.0", "rc-dropdown@~3.2.0":
-  "integrity" "sha1-2mwq2kA4QrruOp6Qmgsakbo+EJA="
-  "resolved" "https://registry.npm.taobao.org/rc-dropdown/download/rc-dropdown-3.2.0.tgz?cache=0&sync_timestamp=1600332782526&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-dropdown%2Fdownload%2Frc-dropdown-3.2.0.tgz"
-  "version" "3.2.0"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.6"
-    "rc-trigger" "^5.0.4"
-
-"rc-field-form@~1.20.0":
-  "integrity" "sha1-0cUYiBB88HW0JwS3tXW++Ew1kpE="
-  "resolved" "https://registry.nlark.com/rc-field-form/download/rc-field-form-1.20.1.tgz"
-  "version" "1.20.1"
-  dependencies:
-    "@babel/runtime" "^7.8.4"
-    "async-validator" "^3.0.3"
-    "rc-util" "^5.8.0"
-
-"rc-image@~5.2.4":
-  "integrity" "sha1-/xBZ+Te95sqRjG8b6zFr66kR8lU="
-  "resolved" "https://registry.npm.taobao.org/rc-image/download/rc-image-5.2.4.tgz?cache=0&sync_timestamp=1616050440574&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-image%2Fdownload%2Frc-image-5.2.4.tgz"
-  "version" "5.2.4"
-  dependencies:
-    "@babel/runtime" "^7.11.2"
-    "classnames" "^2.2.6"
-    "rc-dialog" "~8.5.0"
-    "rc-util" "^5.0.6"
-
-"rc-input-number@~7.1.0":
-  "integrity" "sha1-nXQQyR/43GOE0CM8IN8niYKYn5o="
-  "resolved" "https://registry.nlark.com/rc-input-number/download/rc-input-number-7.1.4.tgz"
-  "version" "7.1.4"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.5"
-    "rc-util" "^5.9.8"
-
-"rc-mentions@~1.6.1":
-  "integrity" "sha1-RgNQJ9ZKoz74QLoPvUEYceNGF64="
-  "resolved" "https://registry.nlark.com/rc-mentions/download/rc-mentions-1.6.1.tgz"
-  "version" "1.6.1"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.6"
-    "rc-menu" "^9.0.0"
-    "rc-textarea" "^0.3.0"
-    "rc-trigger" "^5.0.4"
-    "rc-util" "^5.0.1"
-
-"rc-menu@^9.0.0", "rc-menu@~9.0.12":
-  "integrity" "sha1-SSxLsHpZbizgdYfGabJ+4ow4EMU="
-  "resolved" "https://registry.nlark.com/rc-menu/download/rc-menu-9.0.12.tgz"
-  "version" "9.0.12"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "rc-motion" "^2.4.3"
-    "rc-overflow" "^1.2.0"
-    "rc-trigger" "^5.1.2"
-    "rc-util" "^5.12.0"
-    "shallowequal" "^1.1.0"
-
-"rc-motion@^2.0.0", "rc-motion@^2.0.1", "rc-motion@^2.2.0", "rc-motion@^2.3.0", "rc-motion@^2.3.4", "rc-motion@^2.4.0", "rc-motion@^2.4.3":
-  "integrity" "sha1-6ZXV+iT8kwZcJPcUhXzyZ31lW7A="
-  "resolved" "https://registry.nlark.com/rc-motion/download/rc-motion-2.4.4.tgz?cache=0&sync_timestamp=1622690261380&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-motion%2Fdownload%2Frc-motion-2.4.4.tgz"
-  "version" "2.4.4"
-  dependencies:
-    "@babel/runtime" "^7.11.1"
-    "classnames" "^2.2.1"
-    "rc-util" "^5.2.1"
-
-"rc-notification@~4.5.7":
-  "integrity" "sha1-Jl5uagwaD6xj1qvU2DLrj/MVIvE="
-  "resolved" "https://registry.nlark.com/rc-notification/download/rc-notification-4.5.7.tgz"
-  "version" "4.5.7"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "rc-motion" "^2.2.0"
-    "rc-util" "^5.0.1"
-
-"rc-overflow@^1.0.0", "rc-overflow@^1.2.0":
-  "integrity" "sha1-lbAiIBbAzb3A24X1acJi53BqXyI="
-  "resolved" "https://registry.nlark.com/rc-overflow/download/rc-overflow-1.2.2.tgz"
-  "version" "1.2.2"
-  dependencies:
-    "@babel/runtime" "^7.11.1"
-    "classnames" "^2.2.1"
-    "rc-resize-observer" "^1.0.0"
-    "rc-util" "^5.5.1"
-
-"rc-pagination@~3.1.6":
-  "integrity" "sha1-E7oHGn/LDHmJYHaAbzlEZT578p4="
-  "resolved" "https://registry.nlark.com/rc-pagination/download/rc-pagination-3.1.7.tgz?cache=0&sync_timestamp=1624592253089&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-pagination%2Fdownload%2Frc-pagination-3.1.7.tgz"
-  "version" "3.1.7"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.1"
-
-"rc-picker@~2.5.10":
-  "integrity" "sha1-36kZ9/fMcklt9FyxytnIKtL8AZs="
-  "resolved" "https://registry.nlark.com/rc-picker/download/rc-picker-2.5.14.tgz?cache=0&sync_timestamp=1625122710240&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-picker%2Fdownload%2Frc-picker-2.5.14.tgz"
-  "version" "2.5.14"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.1"
-    "date-fns" "2.x"
-    "dayjs" "1.x"
-    "moment" "^2.24.0"
-    "rc-trigger" "^5.0.4"
-    "rc-util" "^5.4.0"
-    "shallowequal" "^1.1.0"
-
-"rc-progress@~3.1.0":
-  "integrity" "sha1-ZgQND659jO0rOFiDeOzLKGS61hU="
-  "resolved" "https://registry.nlark.com/rc-progress/download/rc-progress-3.1.4.tgz?cache=0&sync_timestamp=1621251854199&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-progress%2Fdownload%2Frc-progress-3.1.4.tgz"
-  "version" "3.1.4"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.6"
-
-"rc-rate@~2.9.0":
-  "integrity" "sha1-5Dy5XE65CiweCxbsZhTYxDUwpzE="
-  "resolved" "https://registry.npm.taobao.org/rc-rate/download/rc-rate-2.9.1.tgz?cache=0&sync_timestamp=1605573559401&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-rate%2Fdownload%2Frc-rate-2.9.1.tgz"
-  "version" "2.9.1"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.5"
-    "rc-util" "^5.0.1"
-
-"rc-resize-observer@^1.0.0":
-  "integrity" "sha1-l/uJhW9i/sMqtuQJM5Nc9Y4uEC0="
-  "resolved" "https://registry.npm.taobao.org/rc-resize-observer/download/rc-resize-observer-1.0.0.tgz?cache=0&sync_timestamp=1608864849776&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-resize-observer%2Fdownload%2Frc-resize-observer-1.0.0.tgz"
-  "version" "1.0.0"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.1"
-    "rc-util" "^5.0.0"
-    "resize-observer-polyfill" "^1.5.1"
-
-"rc-select@^12.0.0", "rc-select@~12.1.6":
-  "integrity" "sha1-wzVgzLkznTBpW1JFj1Xvw1rzUnM="
-  "resolved" "https://registry.nlark.com/rc-select/download/rc-select-12.1.13.tgz?cache=0&sync_timestamp=1626257876125&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-select%2Fdownload%2Frc-select-12.1.13.tgz"
-  "version" "12.1.13"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "rc-motion" "^2.0.1"
-    "rc-overflow" "^1.0.0"
-    "rc-trigger" "^5.0.4"
-    "rc-util" "^5.9.8"
-    "rc-virtual-list" "^3.2.0"
-
-"rc-slider@~9.7.1":
-  "integrity" "sha1-KC9XH3WCdS66ozlk5EEYT055rXQ="
-  "resolved" "https://registry.npm.taobao.org/rc-slider/download/rc-slider-9.7.2.tgz"
-  "version" "9.7.2"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.5"
-    "rc-tooltip" "^5.0.1"
-    "rc-util" "^5.0.0"
-    "shallowequal" "^1.1.0"
-
-"rc-steps@~4.1.0":
-  "integrity" "sha1-IIWA4i22GeODDdt/pBvIhsZdmAM="
-  "resolved" "https://registry.nlark.com/rc-steps/download/rc-steps-4.1.3.tgz"
-  "version" "4.1.3"
-  dependencies:
-    "@babel/runtime" "^7.10.2"
-    "classnames" "^2.2.3"
-    "rc-util" "^5.0.1"
-
-"rc-switch@~3.2.0":
-  "integrity" "sha1-0AH3fxJmTVJZW09vtCXdnmb7qOg="
-  "resolved" "https://registry.npm.taobao.org/rc-switch/download/rc-switch-3.2.2.tgz"
-  "version" "3.2.2"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.1"
-    "rc-util" "^5.0.1"
-
-"rc-table@~7.15.1":
-  "integrity" "sha1-9qtzss+xx288+WgshVVhQjxrWyI="
-  "resolved" "https://registry.nlark.com/rc-table/download/rc-table-7.15.2.tgz?cache=0&sync_timestamp=1626338753650&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-table%2Fdownload%2Frc-table-7.15.2.tgz"
-  "version" "7.15.2"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.5"
-    "rc-resize-observer" "^1.0.0"
-    "rc-util" "^5.13.0"
-    "shallowequal" "^1.1.0"
-
-"rc-tabs@~11.10.0":
-  "integrity" "sha1-exEveLrJmEgMd3rhYK3EJeP9t8s="
-  "resolved" "https://registry.nlark.com/rc-tabs/download/rc-tabs-11.10.1.tgz?cache=0&sync_timestamp=1627529578728&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-tabs%2Fdownload%2Frc-tabs-11.10.1.tgz"
-  "version" "11.10.1"
-  dependencies:
-    "@babel/runtime" "^7.11.2"
-    "classnames" "2.x"
-    "rc-dropdown" "^3.2.0"
-    "rc-menu" "^9.0.0"
-    "rc-resize-observer" "^1.0.0"
-    "rc-util" "^5.5.0"
-
-"rc-textarea@^0.3.0", "rc-textarea@~0.3.0":
-  "integrity" "sha1-FAimTIe15221yEdpnvmrXul91vk="
-  "resolved" "https://registry.npm.taobao.org/rc-textarea/download/rc-textarea-0.3.4.tgz?cache=0&sync_timestamp=1610543642911&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Frc-textarea%2Fdownload%2Frc-textarea-0.3.4.tgz"
-  "version" "0.3.4"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.1"
-    "rc-resize-observer" "^1.0.0"
-    "rc-util" "^5.7.0"
-
-"rc-tooltip@^5.0.1", "rc-tooltip@~5.1.1":
-  "integrity" "sha1-lBeO0WLQJSvEmTtyX13CrA/M8VQ="
-  "resolved" "https://registry.nlark.com/rc-tooltip/download/rc-tooltip-5.1.1.tgz?cache=0&sync_timestamp=1620376922725&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-tooltip%2Fdownload%2Frc-tooltip-5.1.1.tgz"
-  "version" "5.1.1"
-  dependencies:
-    "@babel/runtime" "^7.11.2"
-    "rc-trigger" "^5.0.0"
-
-"rc-tree-select@~4.3.0":
-  "integrity" "sha1-KOuk2KjcjA+bYdg85GWEKmkV7KQ="
-  "resolved" "https://registry.nlark.com/rc-tree-select/download/rc-tree-select-4.3.3.tgz"
-  "version" "4.3.3"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "rc-select" "^12.0.0"
-    "rc-tree" "^4.0.0"
-    "rc-util" "^5.0.5"
-
-"rc-tree@^4.0.0", "rc-tree@~4.2.1":
-  "integrity" "sha1-RCkYfLv77L6YlxSmB+Peizq3dj8="
-  "resolved" "https://registry.nlark.com/rc-tree/download/rc-tree-4.2.2.tgz"
-  "version" "4.2.2"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "2.x"
-    "rc-motion" "^2.0.1"
-    "rc-util" "^5.0.0"
-    "rc-virtual-list" "^3.0.1"
-
-"rc-trigger@^5.0.0", "rc-trigger@^5.0.4", "rc-trigger@^5.1.2", "rc-trigger@^5.2.1":
-  "integrity" "sha1-eVp4fSsDg0fc3ie4mkpc7I/EDz4="
-  "resolved" "https://registry.nlark.com/rc-trigger/download/rc-trigger-5.2.9.tgz"
-  "version" "5.2.9"
-  dependencies:
-    "@babel/runtime" "^7.11.2"
-    "classnames" "^2.2.6"
-    "rc-align" "^4.0.0"
-    "rc-motion" "^2.0.0"
-    "rc-util" "^5.5.0"
-
-"rc-upload@~4.3.0":
-  "integrity" "sha1-1u5muL0eHdL3hSbEhlOEI/fn7YQ="
-  "resolved" "https://registry.nlark.com/rc-upload/download/rc-upload-4.3.1.tgz?cache=0&sync_timestamp=1623401052164&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-upload%2Fdownload%2Frc-upload-4.3.1.tgz"
-  "version" "4.3.1"
-  dependencies:
-    "@babel/runtime" "^7.10.1"
-    "classnames" "^2.2.5"
-    "rc-util" "^5.2.0"
-
-"rc-util@^5.0.0", "rc-util@^5.0.1", "rc-util@^5.0.5", "rc-util@^5.0.6", "rc-util@^5.0.7", "rc-util@^5.12.0", "rc-util@^5.13.0", "rc-util@^5.13.1", "rc-util@^5.2.0", "rc-util@^5.2.1", "rc-util@^5.3.0", "rc-util@^5.4.0", "rc-util@^5.5.0", "rc-util@^5.5.1", "rc-util@^5.6.1", "rc-util@^5.7.0", "rc-util@^5.8.0", "rc-util@^5.9.4", "rc-util@^5.9.8":
+"rc-util@^5.9.4":
   "integrity" "sha1-qKC7d3QzUYQbqL7WOT4DuNL2hcg="
   "resolved" "https://registry.nlark.com/rc-util/download/rc-util-5.13.2.tgz?cache=0&sync_timestamp=1625711434684&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frc-util%2Fdownload%2Frc-util-5.13.2.tgz"
   "version" "5.13.2"
@@ -11085,15 +10603,6 @@
     "@babel/runtime" "^7.12.5"
     "react-is" "^16.12.0"
     "shallowequal" "^1.1.0"
-
-"rc-virtual-list@^3.0.1", "rc-virtual-list@^3.2.0":
-  "integrity" "sha1-L5Wm3bv2PXiyhmK1fx5p90cnYv4="
-  "resolved" "https://registry.nlark.com/rc-virtual-list/download/rc-virtual-list-3.3.0.tgz"
-  "version" "3.3.0"
-  dependencies:
-    "classnames" "^2.2.6"
-    "rc-resize-observer" "^1.0.0"
-    "rc-util" "^5.0.7"
 
 "react-app-polyfill@^2.0.0":
   "integrity" "sha1-oL6lDweLiggpcKnYU9w0ttzGo88="
@@ -11137,7 +10646,7 @@
     "strip-ansi" "6.0.0"
     "text-table" "0.2.0"
 
-"react-dom@*", "react-dom@^17.0.2", "react-dom@>= 16.9.0", "react-dom@>=16.9.0":
+"react-dom@*", "react-dom@^17.0.2", "react-dom@>=16.9.0":
   "integrity" "sha1-7P+2hF462Nv83EmPDQqTlzZQLCM="
   "resolved" "https://registry.nlark.com/react-dom/download/react-dom-17.0.2.tgz?cache=0&sync_timestamp=1627575549688&other_urls=https%3A%2F%2Fregistry.nlark.com%2Freact-dom%2Fdownload%2Freact-dom-17.0.2.tgz"
   "version" "17.0.2"
@@ -11156,16 +10665,6 @@
   "resolved" "https://registry.nlark.com/react-is/download/react-is-16.13.1.tgz"
   "version" "16.13.1"
 
-"react-is@^16.6.0":
-  "integrity" "sha1-eJcppNw23imZ3BVt1sHZwYzqVqQ="
-  "resolved" "https://registry.nlark.com/react-is/download/react-is-16.13.1.tgz"
-  "version" "16.13.1"
-
-"react-is@^16.7.0":
-  "integrity" "sha1-eJcppNw23imZ3BVt1sHZwYzqVqQ="
-  "resolved" "https://registry.nlark.com/react-is/download/react-is-16.13.1.tgz"
-  "version" "16.13.1"
-
 "react-is@^16.8.1":
   "integrity" "sha1-eJcppNw23imZ3BVt1sHZwYzqVqQ="
   "resolved" "https://registry.nlark.com/react-is/download/react-is-16.13.1.tgz"
@@ -11180,35 +10679,6 @@
   "integrity" "sha1-ch1GV2ctQAxePHXQY8SoX7LV1o8="
   "resolved" "https://registry.nlark.com/react-refresh/download/react-refresh-0.8.3.tgz?cache=0&sync_timestamp=1627575442142&other_urls=https%3A%2F%2Fregistry.nlark.com%2Freact-refresh%2Fdownload%2Freact-refresh-0.8.3.tgz"
   "version" "0.8.3"
-
-"react-router-dom@^5.2.0":
-  "integrity" "sha1-nmWk0MReEyieZsexfH4XXQ6hVmI="
-  "resolved" "https://registry.nlark.com/react-router-dom/download/react-router-dom-5.2.0.tgz"
-  "version" "5.2.0"
-  dependencies:
-    "@babel/runtime" "^7.1.2"
-    "history" "^4.9.0"
-    "loose-envify" "^1.3.1"
-    "prop-types" "^15.6.2"
-    "react-router" "5.2.0"
-    "tiny-invariant" "^1.0.2"
-    "tiny-warning" "^1.0.0"
-
-"react-router@5.2.0":
-  "integrity" "sha1-Qk51ZByodH+/duXsyml4GqN+opM="
-  "resolved" "https://registry.nlark.com/react-router/download/react-router-5.2.0.tgz"
-  "version" "5.2.0"
-  dependencies:
-    "@babel/runtime" "^7.1.2"
-    "history" "^4.9.0"
-    "hoist-non-react-statics" "^3.1.0"
-    "loose-envify" "^1.3.1"
-    "mini-create-react-context" "^0.4.0"
-    "path-to-regexp" "^1.7.0"
-    "prop-types" "^15.6.2"
-    "react-is" "^16.6.0"
-    "tiny-invariant" "^1.0.2"
-    "tiny-warning" "^1.0.0"
 
 "react-scripts@^4.0.0", "react-scripts@4.0.3":
   "integrity" "sha1-scr+18P6YD52KLoPGHeHlky100U="
@@ -11276,7 +10746,7 @@
   optionalDependencies:
     "fsevents" "^2.1.3"
 
-"react@*", "react@^0.14.0 || ^15.0.0 || ^16.0.0 || ^17.0.0", "react@^17.0.2", "react@>= 16", "react@>= 16.9.0", "react@>=15", "react@>=16.0.0", "react@>=16.9.0", "react@17.0.2":
+"react@*", "react@^17.0.2", "react@>= 16", "react@>=16.0.0", "react@>=16.9.0", "react@17.0.2":
   "integrity" "sha1-0LXMUW0p6z7uOD91tihkz7aAADc="
   "resolved" "https://registry.nlark.com/react/download/react-17.0.2.tgz?cache=0&sync_timestamp=1627575542397&other_urls=https%3A%2F%2Fregistry.nlark.com%2Freact%2Fdownload%2Freact-17.0.2.tgz"
   "version" "17.0.2"
@@ -11543,11 +11013,6 @@
   "resolved" "https://registry.npm.taobao.org/reserved-words/download/reserved-words-0.1.2.tgz"
   "version" "0.1.2"
 
-"resize-observer-polyfill@^1.5.0", "resize-observer-polyfill@^1.5.1":
-  "integrity" "sha1-DpAg3T0hAkRY1OvSfiPkAmmBBGQ="
-  "resolved" "https://registry.npm.taobao.org/resize-observer-polyfill/download/resize-observer-polyfill-1.5.1.tgz"
-  "version" "1.5.1"
-
 "resolve-cwd@^2.0.0":
   "integrity" "sha1-AKn3OHVW4nA46uIyyqNypqWbZlo="
   "resolved" "https://registry.npm.taobao.org/resolve-cwd/download/resolve-cwd-2.0.0.tgz"
@@ -11576,11 +11041,6 @@
   "integrity" "sha1-w1IlhD3493bfIcV1V7wIfp39/Gk="
   "resolved" "https://registry.npm.taobao.org/resolve-from/download/resolve-from-5.0.0.tgz"
   "version" "5.0.0"
-
-"resolve-pathname@^3.0.0":
-  "integrity" "sha1-mdAiJNPPJjaJvsuzk7xWAxMCXc0="
-  "resolved" "https://registry.npm.taobao.org/resolve-pathname/download/resolve-pathname-3.0.0.tgz"
-  "version" "3.0.0"
 
 "resolve-url-loader@^3.1.2":
   "integrity" "sha1-I14sKOIuPkMrp6XU4wXFmljt/Ag="
@@ -11857,13 +11317,6 @@
     "@types/json-schema" "^7.0.8"
     "ajv" "^6.12.5"
     "ajv-keywords" "^3.5.2"
-
-"scroll-into-view-if-needed@^2.2.25":
-  "integrity" "sha1-WhWy9YpSZCyIyOylhGROAXA9ZFo="
-  "resolved" "https://registry.npm.taobao.org/scroll-into-view-if-needed/download/scroll-into-view-if-needed-2.2.28.tgz"
-  "version" "2.2.28"
-  dependencies:
-    "compute-scroll-into-view" "^1.0.17"
 
 "scrypt-js@^3.0.0", "scrypt-js@^3.0.1":
   "integrity" "sha512-cdwTTnqPu0Hyvf5in5asVdZocVDTNRmR7XEcJuIzMjJeSHybHl7vpB66AzwTaIg6CLSbtjcxc8fqcySfnTkccA=="
@@ -12437,11 +11890,6 @@
   dependencies:
     "safe-buffer" "~5.1.0"
 
-"string-convert@^0.2.0":
-  "integrity" "sha1-aYLMMEn7tM2F+LJFaLnZvznu/5c="
-  "resolved" "https://registry.npm.taobao.org/string-convert/download/string-convert-0.2.1.tgz"
-  "version" "0.2.1"
-
 "string-length@^4.0.1":
   "integrity" "sha1-qKjce9XBqCubPIuH4SX2aHG25Xo="
   "resolved" "https://registry.nlark.com/string-length/download/string-length-4.0.2.tgz?cache=0&sync_timestamp=1622904918319&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fstring-length%2Fdownload%2Fstring-length-4.0.2.tgz"
@@ -12861,16 +12309,6 @@
   "resolved" "https://registry.nlark.com/timsort/download/timsort-0.3.0.tgz"
   "version" "0.3.0"
 
-"tiny-invariant@^1.0.2":
-  "integrity" "sha1-Y0xfjv3CdxS384bDXmdgmR0jCHU="
-  "resolved" "https://registry.nlark.com/tiny-invariant/download/tiny-invariant-1.1.0.tgz"
-  "version" "1.1.0"
-
-"tiny-warning@^1.0.0", "tiny-warning@^1.0.3":
-  "integrity" "sha1-lKMNtFPfTGQ9D9VmBg1gqHXYR1Q="
-  "resolved" "https://registry.npm.taobao.org/tiny-warning/download/tiny-warning-1.0.3.tgz"
-  "version" "1.0.3"
-
 "tmpl@1.0.x":
   "integrity" "sha1-I2QN17QtAEM5ERQIIOXPRA5SHdE="
   "resolved" "https://registry.npm.taobao.org/tmpl/download/tmpl-1.0.4.tgz"
@@ -12922,11 +12360,6 @@
     "extend-shallow" "^3.0.2"
     "regex-not" "^1.0.2"
     "safe-regex" "^1.1.0"
-
-"toggle-selection@^1.0.6":
-  "integrity" "sha1-bkWxJj8gF/oKzH2J14sVuL932jI="
-  "resolved" "https://registry.npm.taobao.org/toggle-selection/download/toggle-selection-1.0.6.tgz"
-  "version" "1.0.6"
 
 "toidentifier@1.0.0":
   "integrity" "sha1-fhvjRw8ed5SLxD2Uo8j013UrpVM="
@@ -13415,11 +12848,6 @@
     "spdx-correct" "^3.0.0"
     "spdx-expression-parse" "^3.0.0"
 
-"value-equal@^1.0.1":
-  "integrity" "sha1-Hgt5THNMXAyt4XnEN9NW2TGjTWw="
-  "resolved" "https://registry.nlark.com/value-equal/download/value-equal-1.0.1.tgz"
-  "version" "1.0.1"
-
 "varint@^5.0.0":
   "integrity" "sha512-lKxKYG6H03yCZUpAGOPOsMcGxd1RHCu1iKvEHYDPmTyq2HueGhD73ssNBqqQWfvYs04G9iUFRvmAVLW20Jw6ow=="
   "resolved" "https://registry.npmjs.org/varint/-/varint-5.0.2.tgz"
@@ -13469,13 +12897,6 @@
   "version" "1.0.7"
   dependencies:
     "makeerror" "1.0.x"
-
-"warning@^4.0.1", "warning@^4.0.3":
-  "integrity" "sha1-Fungd+uKhtavfWSqHgX9hbRnjKM="
-  "resolved" "https://registry.nlark.com/warning/download/warning-4.0.3.tgz"
-  "version" "4.0.3"
-  dependencies:
-    "loose-envify" "^1.0.0"
 
 "watchpack-chokidar2@^2.0.1":
   "integrity" "sha1-OFAAcu5uzmbzdpk2lQ6hdxvhyVc="
