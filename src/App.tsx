@@ -6,7 +6,7 @@ function App() {
 			<div className='imgs'>
 				<img src={logo} alt="logo" style={{width:318}} />
 			</div>
-			<h2>Hello ICNaming</h2>
+			<h2>Hello ICNaming!</h2>
 		</div>
 	);
 }
